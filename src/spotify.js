@@ -1,5 +1,5 @@
 export const authEndPoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://spotify-clone-gold-gamma.vercel.app/";
 const clientId = "0388ff9cec364195949aa34db68f6820";
 
 const scopes = [
